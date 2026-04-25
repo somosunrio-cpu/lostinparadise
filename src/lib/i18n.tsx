@@ -6,11 +6,11 @@ const translations = {
   es: {
     subtitle: "Rutas en bicicleta por Formentera",
     accessLabel: "Introduce tu código de acceso",
-    accessPlaceholder: "Ej: PLAYA01 o ADMIN2025",
+    accessPlaceholder: " ",
     accessButton: "Acceder",
     errorEmpty: "Introduce un código",
     errorInvalid: "Código no válido. Inténtalo de nuevo.",
-    copyright: "© 2025 Escape From Paradise · Formentera",
+    copyright: "© 2026 Lost in Paradise Formentera",
 
     back: "Volver",
     gpsMap: "Mapa GPS",
@@ -45,11 +45,11 @@ const translations = {
   en: {
     subtitle: "Bike routes around Formentera",
     accessLabel: "Enter your access code",
-    accessPlaceholder: "E.g.: PLAYA01 or ADMIN2025",
+    accessPlaceholder: " ",
     accessButton: "Enter",
     errorEmpty: "Enter a code",
     errorInvalid: "Invalid code. Try again.",
-    copyright: "© 2025 Escape From Paradise · Formentera",
+    copyright: "© 2026 Lost in Paradise Formentera",
 
     back: "Back",
     gpsMap: "GPS Map",

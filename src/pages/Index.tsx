@@ -64,7 +64,7 @@ const Index = () => {
         </div>
 
         <h1 className="font-display text-5xl md:text-6xl font-bold text-primary-foreground leading-tight mb-2">
-          Escape From<br />Paradise
+          Lost in Paradise 
         </h1>
         <p className="text-primary-foreground/70 font-body text-lg mb-10">
           {t("subtitle")}
